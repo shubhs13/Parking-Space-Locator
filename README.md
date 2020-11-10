@@ -6,10 +6,6 @@
 * Python
 * OpenCv
 
-# Output
-TensorFlow 2 packages are available
-    
-
 # Pitch
 
   Finding a vacant parking space in urban areas is a tie consuming and thus not satisfying for potential visitor or costomer. Efficient car parking routing systems could support drivers to get an optimal parking space immediately . Therefore we are implementing a vision based "Parking Space Detection" system to detect space in Parking Lot.
